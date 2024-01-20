@@ -1,0 +1,16 @@
+header {
+	display: flex;
+	margin-bottom: 30px;
+	margin-top: 10px;
+	width: 100%;
+	justify-content: space-evenly;
+
+	& select {
+		width: 250px;
+	}
+}
+
+form {
+	display: flex;
+	gap: 20px;
+}
